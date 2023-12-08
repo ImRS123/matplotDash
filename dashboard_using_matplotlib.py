@@ -7,16 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1T58v90Rr2gwLNGMNmUQr0goXu2SP6coH
 """
 
-pip install dash
-
-pip install dash-ag-grid
-
-pip install dash-bootstrap-components
-
-pip install pandas
-
-pip install matplotlib
-
 from dash import Dash, html, dcc, Input, Output  # pip install dash
 import plotly.express as px
 import dash_ag_grid as dag                       # pip install dash-ag-grid
