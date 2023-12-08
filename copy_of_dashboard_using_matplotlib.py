@@ -7,11 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1nVrT0uNmkT7y0Z5G6nglEjvEFrDcwzAH
 """
 
-pip install dash
+#pip install dash
 
-pip install dash-ag-grid
+#pip install dash-ag-grid
 
-pip install dash-bootstrap-components
+#pip install dash-bootstrap-components
 
 #pip install pandas
 
